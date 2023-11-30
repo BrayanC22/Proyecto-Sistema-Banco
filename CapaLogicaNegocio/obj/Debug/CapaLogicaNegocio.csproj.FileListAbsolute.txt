@@ -1,0 +1,289 @@
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Descargas\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Proyeto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\braya\Desktop\PROYECTO SISTEMA Codificado sin ejecutar\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Imagenes Proyecto\Proyecto Parte Romero unido\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA DE ALMACENAMIENTO BANCARIO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Zstandard.Net.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.pdb
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.xml
+E:\Acceso\Imagenes\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.xml
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Zstandard.Net.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.pdb
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.xml
+D:\Escritorio\kevin\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Zstandard.Net.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.pdb
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\LENOVO\Desktop\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Zstandard.Net.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.xml
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Proyecto pruebas\ROMERO\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Zstandard.Net.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.pdb
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.xml
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\Proyecto pruebas\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Zstandard.Net.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\MySql.Data.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.pdb
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\Google.Protobuf.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Memory.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Buffers.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Compression.LZ4.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\K4os.Hash.xxHash.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\System.Numerics.Vectors.xml
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\Proyecto\BrayanC\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\Acceso\Imagenes\ProyectoFinalPrubeasss\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\LENOVO\Desktop\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll.config
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.pdb
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\bin\Debug\CapaAccesoDatos.dll.config
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\Escritorio\Proyecto\PROYECTO SISTEMA BANCO\PROYECTO SISTEMA BANCO\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
